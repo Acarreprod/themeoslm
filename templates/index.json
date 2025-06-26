@@ -106,7 +106,7 @@
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Ils en parlent",
         "content": "",
         "text_alignment": "center",
