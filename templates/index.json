@@ -302,7 +302,7 @@
         "product": "mytrackerr-card",
         "desktop_media_width": 50,
         "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
+        "mobile_media_size": "contained",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
         "enable_video_looping": false,
