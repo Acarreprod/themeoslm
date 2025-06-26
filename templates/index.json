@@ -15,11 +15,12 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/fines_card.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -27,39 +28,18 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "slide-2": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "slide-1",
-        "slide-2"
+        "slide-1"
       ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": true,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
         "controls_type": "numbers",
@@ -96,21 +76,29 @@
             "logo_width": 120,
             "link": ""
           }
+        },
+        "logo_mURVG9": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_cwBGfw",
         "logo_wadxwd",
-        "logo_iVHWP6"
+        "logo_iVHWP6",
+        "logo_mURVG9"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "title": "Ils en parlent",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 3,
+        "items_per_row": 4,
         "background": "#000000",
         "background_gradient": "",
         "text_color": "#f2f2f2",
@@ -127,7 +115,7 @@
           "type": "item",
           "settings": {
             "title": "100%",
-            "subheading": "Showcase a benefit of your product",
+            "subheading": "Fiable et sécurisé, aucune collecte de données",
             "content": "",
             "button_text": "",
             "button_url": "",
@@ -163,6 +151,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Proven_Results_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -294,7 +283,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "",
+        "product": "mytrackerr-card",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -308,6 +297,22 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "image_with_text_overlay_DzfbpD": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/slim.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "faq": {
@@ -410,6 +415,7 @@
     "image_with_text_overlay_6rndAF",
     "multiple-images-with-text",
     "featured-product",
+    "image_with_text_overlay_DzfbpD",
     "faq",
     "image-with-text-overlay"
   ]
