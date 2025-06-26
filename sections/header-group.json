@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Promo d'été : 2 + 1 GRATUIT",
+            "url": ""
+          }
+        },
+        "message_PbjUfC": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite",
+            "url": ""
+          }
+        },
+        "message_dEec4c": {
+          "type": "message",
+          "settings": {
+            "text": "Satisfait ou remboursé",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_PbjUfC",
+        "message_dEec4c"
       ],
       "settings": {
         "enable_sticky": false,
