@@ -179,9 +179,9 @@
           "settings": {
             "image": "shopify://shop_images/5YPmS1wvc.jpg",
             "image_rotation_degrees": 1.5,
-            "subheading": "",
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "★★★★★",
+            "title": "Keith M.",
+            "content": "<p>Works well and not too thick. I don't notice it in my wallet and the alarm is louder than an air tag.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -191,9 +191,9 @@
           "settings": {
             "image": "shopify://shop_images/IMG_1159_1d50f035-1bae-4f37-a9f6-b2b401bcc62a.png",
             "image_rotation_degrees": 0,
-            "subheading": "",
-            "title": "Image with text",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "★★★★★",
+            "title": "FIONA P.",
+            "content": "<p>slim tracking card, easy to fit in my wallet and very loud as well. excellent purchase would buy again for my family members.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -204,6 +204,7 @@
         "1664424486a2b084ab-1",
         "item_NJbjKF"
       ],
+      "custom_css": [],
       "name": "avis image",
       "settings": {
         "full_width": true,
