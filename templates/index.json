@@ -100,6 +100,22 @@
         "logo_item_border": ""
       }
     },
+    "image_with_text_overlay_rh8xqp": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "lg",
+        "image": "shopify://shop_images/Waterproof.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -119,6 +135,7 @@
       "block_order": [
         "1664424181b38582d5-0"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_mobile": true,
@@ -490,6 +507,7 @@
   "order": [
     "slideshow",
     "logo_list_AEtWMc",
+    "image_with_text_overlay_rh8xqp",
     "impact-text",
     "image_with_text_overlay_6rndAF",
     "multiple-images-with-text",
