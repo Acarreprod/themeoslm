@@ -168,6 +168,68 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_PaeCEz": {
+      "type": "multi-column",
+      "blocks": {
+        "item_AFgm7j": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/how-gif1.webp",
+            "column_size": "3",
+            "title": "1. Connectez- la à Apple Find MY",
+            "heading_tag": "h4",
+            "content": "<p>Approchez-la simplement de votre iPhone et appuyez une fois. <br/>C'est tout. <strong>Pas d'application à installer, pas de prise de tête. </strong>Votre carte est prête en quelques secondes.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_GxK6UU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/how-gif2.webp",
+            "column_size": "3",
+            "title": "2. Glissez-la en sécurité",
+            "heading_tag": "h4",
+            "content": "<p>Rangez-la dans votre portefeuille, sac ou passeport. <br/>Elle est <strong>ultra-fine, discrète</strong> et reste à sa place jusqu'à ce que vous en ayez besoin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_JKgM99": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/how-gif3.webp",
+            "column_size": "3",
+            "title": "3. Suivez-la, faites la sonner, retrouvez-la",
+            "heading_tag": "h4",
+            "content": "<p>Utilisez l'app <strong>Localiser </strong>(Find My) pour connaître sa position.<br/>Si elle est à proximité, appusez sur <strong>Faire sonner</strong> pour l'entendre, même à travers un sac ou un coussin.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_AFgm7j",
+        "item_GxK6UU",
+        "item_JKgM99"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Installation en moins de 45 secondes",
+        "content": "<p>La plupart de nos clients connectent et commencent à utiliser leur carte en moins d'une minute. Voici comment ça fonctionne :</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "multiple-images-with-text": {
       "type": "multiple-images-with-text",
       "blocks": {
@@ -510,6 +572,7 @@
     "image_with_text_overlay_rh8xqp",
     "impact-text",
     "image_with_text_overlay_6rndAF",
+    "multi_column_PaeCEz",
     "multiple-images-with-text",
     "image_with_text_overlay_DzfbpD",
     "featured_product_RFmzrc",
