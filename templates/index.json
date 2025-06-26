@@ -165,10 +165,11 @@
         "1664424486a2b084ab-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-03-23_at_13.21.31.jpg",
             "image_rotation_degrees": -2,
-            "subheading": "",
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "subheading": "★★★★★",
+            "title": "Ben M",
+            "content": "<p>These are great, easy to setup with your Apple device and fits in with your credit cards. They arrive fully charged and ready to use.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -176,9 +177,22 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/5YPmS1wvc.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "",
             "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "item_NJbjKF": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1159_1d50f035-1bae-4f37-a9f6-b2b401bcc62a.png",
+            "image_rotation_degrees": 0,
+            "subheading": "",
+            "title": "Image with text",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
             "button_url": "",
             "button_text": ""
@@ -187,7 +201,8 @@
       },
       "block_order": [
         "1664424486a2b084ab-0",
-        "1664424486a2b084ab-1"
+        "1664424486a2b084ab-1",
+        "item_NJbjKF"
       ],
       "name": "avis image",
       "settings": {
