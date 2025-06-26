@@ -152,6 +152,19 @@
         "button_text_color": ""
       }
     },
+    "custom_html_NxaKET": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_6rndAF": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -571,6 +584,7 @@
     "logo_list_AEtWMc",
     "image_with_text_overlay_rh8xqp",
     "impact-text",
+    "custom_html_NxaKET",
     "image_with_text_overlay_6rndAF",
     "multi_column_PaeCEz",
     "multiple-images-with-text",
