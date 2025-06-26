@@ -365,7 +365,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": false,
-        "product": "mytrackerr-card",
+        "product": "mytrackerr-card-1",
         "desktop_media_width": 50,
         "desktop_media_layout": "carousel_thumbnails_bottom",
         "mobile_media_size": "contained",
