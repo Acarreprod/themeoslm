@@ -252,8 +252,8 @@
             "image": "shopify://shop_images/WhatsApp_Image_2025-03-23_at_13.21.31.jpg",
             "image_rotation_degrees": -2,
             "subheading": "★★★★★",
-            "title": "Ben M",
-            "content": "<p>These are great, easy to setup with your Apple device and fits in with your credit cards. They arrive fully charged and ready to use.</p>",
+            "title": "Tony M",
+            "content": "<p>Après avoir « perdu » mon portefeuille (il était en fait sous le siège de la voiture),  j’ai commandé une carte myTRACKERR. Deux mois plus tard, elle m’a déjà évité une nouvelle chasse au portefeuille. Meilleur achat de ma vie !</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -261,10 +261,10 @@
         "1664424486a2b084ab-1": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/5YPmS1wvc.jpg",
+            "image": "shopify://shop_images/0uLG0rhWJ_mid.jpg",
             "image_rotation_degrees": 1.5,
             "subheading": "★★★★★",
-            "title": "Keith M.",
+            "title": "Martin K.",
             "content": "<p>Works well and not too thick. I don't notice it in my wallet and the alarm is louder than an air tag.</p>",
             "button_url": "",
             "button_text": ""
@@ -276,8 +276,8 @@
             "image": "shopify://shop_images/IMG_1159_1d50f035-1bae-4f37-a9f6-b2b401bcc62a.png",
             "image_rotation_degrees": 0,
             "subheading": "★★★★★",
-            "title": "FIONA P.",
-            "content": "<p>slim tracking card, easy to fit in my wallet and very loud as well. excellent purchase would buy again for my family members.</p>",
+            "title": "Rebecca R",
+            "content": "<p>Je suis vraiment impressionnée : la configuration était simple et très intuitive. J’avais quelques doutes avant de commander, mais c’est excellent – et même <strong>plus rapide qu’un AirTag</strong>, que j’utilisais avant.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -488,7 +488,7 @@
           "type": "tab",
           "settings": {
             "title": "Satisfait ou remboursé",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Si vous n'êtes pas complètement satisfaite, nous remboursons votre boîtes de gummies sous 30 jours.</p>",
             "page": ""
           }
         },
@@ -496,7 +496,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "content": "<p>La livraison est totalement gratuite. Selon le volume de commande à traiter, le délai de livraison est estimé entre 5 et 10 jours ouvrés.</p>",
             "page": ""
           }
         },
@@ -504,7 +504,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7j/7",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions sept jours sur sept.</p><p>Vous pouvez nous contacter par email à l'adresse suivante : hello@mytrackerr.com</p>",
             "page": ""
           }
         }
