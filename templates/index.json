@@ -278,7 +278,7 @@
             "image": "shopify://shop_images/WhatsApp_Image_2025-03-23_at_13.21.31.jpg",
             "image_rotation_degrees": -2,
             "subheading": "★★★★★",
-            "title": "Tony M",
+            "title": "Tony M.",
             "content": "<p>Après avoir « perdu » mon portefeuille (il était en fait sous le siège de la voiture),  j’ai commandé une carte myTRACKERR. Deux mois plus tard, elle m’a déjà évité une nouvelle chasse au portefeuille. Meilleur achat de ma vie !</p>",
             "button_url": "",
             "button_text": ""
@@ -291,7 +291,7 @@
             "image_rotation_degrees": 1.5,
             "subheading": "★★★★★",
             "title": "Martin K.",
-            "content": "<p>Works well and not too thick. I don't notice it in my wallet and the alarm is louder than an air tag.</p>",
+            "content": "<p>Fonctionne bien et n’est pas trop épais. Je ne le remarque même pas dans mon portefeuille, et l’alarme est plus forte que celle d’un AirTag.</p>",
             "button_url": "",
             "button_text": ""
           }
@@ -651,34 +651,6 @@
         "button_background": "",
         "button_text_color": ""
       }
-    },
-    "1751133827ed8c9847": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_qBBXec": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": false
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_qBBXec"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -694,7 +666,6 @@
     "featured_product_RFmzrc",
     "tabs_8g6iLH",
     "faq",
-    "contact_iLnFCw",
-    "1751133827ed8c9847"
+    "contact_iLnFCw"
   ]
 }
