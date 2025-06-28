@@ -76,12 +76,21 @@
             "logo_width": 120,
             "link": ""
           }
+        },
+        "logo_GBTkEe": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/theverge.png",
+            "logo_width": 120,
+            "link": ""
+          }
         }
       },
       "block_order": [
         "logo_cwBGfw",
         "logo_wadxwd",
-        "logo_iVHWP6"
+        "logo_iVHWP6",
+        "logo_GBTkEe"
       ],
       "name": "Logo list",
       "settings": {
@@ -368,6 +377,12 @@
             "product": "{{section.settings.product}}"
           }
         },
+        "text_hCEVyt": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Livraison sous 5 à 10 jours</p>"
+          }
+        },
         "liquid_yFaPEA": {
           "type": "liquid",
           "settings": {
@@ -447,6 +462,7 @@
         "description_qdyztB",
         "text_fwPWy7",
         "kaching_bundles_app_block_JnTA4n",
+        "text_hCEVyt",
         "liquid_yFaPEA",
         "buy_buttons_CJEpyr",
         "offer_4PekFp",
@@ -639,13 +655,13 @@
   "order": [
     "slideshow",
     "logo_list_AEtWMc",
+    "image_with_text_overlay_cbNJpF",
     "image_with_text_overlay_rh8xqp",
     "impact-text",
     "custom_html_NxaKET",
     "image_with_text_overlay_6rndAF",
     "multi_column_PaeCEz",
     "multiple-images-with-text",
-    "image_with_text_overlay_cbNJpF",
     "featured_product_RFmzrc",
     "tabs_8g6iLH",
     "faq",
